@@ -32,4 +32,5 @@ Universal Robots의 polyscope(티치팬던트) 화면을 컴퓨터에 미러링 
 
 ## WSL(Windows Subsystem for Linux)
 
-
+상황에 따라 Windows환경에서 Linux 기반 프로그램을 동작시켜야하는 경우가 있습니다. 
+WSL을 이용하여 Windows 상에서 가상의 리눅스 컴퓨터를 생성하고, 인터렉션 할 수 있습니다.
