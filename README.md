@@ -1,6 +1,9 @@
 # Affine Robotics 허니팁스
 
-<img width="565" alt="image" src="./readmeImages/affinerobotics_logo_black_horizontal.png">
+<div align="center">
+  <img src="./readmeImages/affinerobotics_horizontal.png" alt="image" style="height:auto; width:100%;">
+</div>
+
 
 로봇 시스템을 구성할때 유용한 정보를 공유하는 공간입니다. 
 
