@@ -17,7 +17,7 @@ python virtual environment setup: https://docs.python.org/3/library/venv.html
         source venv_name/bin/activate
 
 
-- Windows bash/cmd(검토 필요)
+- Windows bash
 
 
 
@@ -25,3 +25,15 @@ python virtual environment setup: https://docs.python.org/3/library/venv.html
 
         venv_name\Scripts\activate.bat
 
+- Windows CMD
+
+
+        python -m venv venv_name
+  
+        venv_name\Scripts\activate.bat    (use '\', not '/')
+
+To deactivate current environment, 
+
+
+        deactivate
+        
